@@ -19,19 +19,21 @@ menu:
     url: '/'
   - title: 'Fork'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
-    url: '/tags'
+  - title: 'Home'
+    url: '/'
+  - title: Pictures
+    url: '/pictures'
+ # - title: 'Tags'
+ #  url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
+  - title: 'Current Interests'
     url: '#'
     submenu:
-      - title: 'Code Highlighter'
+      - title: 'Links'
         url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
+      - title: 'Dev Tools'
         url: '/intro/sample-post/'
 
 # Owner/author information
