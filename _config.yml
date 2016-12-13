@@ -17,13 +17,9 @@ url: http://localhost:4000
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Home'
-    url: '/'
   - title: Pictures
     url: '/pictures'
- # - title: 'Tags'
+ #- title: 'Tags'
  #  url: '/tags'
   - title: 'Categories'
     url: '/categories'
