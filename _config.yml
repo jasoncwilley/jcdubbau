@@ -7,7 +7,7 @@ reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
 logo:             images/logo.png # logo visible in the topbar
 excerpt_separator: <!--more-->
-url: http://localhost:4000
+url: https://jasoncwilley@github.io/jcdubbau
 
 # draw your top menu here
 # each item must have a title and a url.
